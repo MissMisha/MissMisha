@@ -33,7 +33,7 @@ Here are some technologies and tools I work with:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MissMisha&theme=radical)
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/misha-bansal-9bb4832a0)
+- LinkedIn: [My Linkedin Profile](https://linkedin.com/in/misha-bansal-9bb4832a0)
 
 
 
