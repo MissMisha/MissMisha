@@ -2,7 +2,7 @@
 
 - 💫 1st Year CSE student
 - 👩‍💻Tech Enthusiast
-- 📫 How to reach me:mishabansal26@gmail.com
+- 📫 How to reach me : mishabansal26@gmail.com
 - 😄 Pronouns:She/Her
 
 ## 🛠️ Tech Stack
