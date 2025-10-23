@@ -23,6 +23,12 @@ Here are some technologies and tools I work with:
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+
+## 🪪 My Holopin badge board — representing community contributions & dev achievements.
+[![@missmisha’s Holopin board](https://holopin.me/missmisha)](https://holopin.io/@missmisha)
+
+
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MissMisha&show_icons=true&theme=radical)
 
