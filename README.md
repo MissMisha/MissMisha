@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 💫 1st Year CSE student
-- 👩‍💻Tech Enthusiast
+- 💫 2nd Year CSE student
+- 👩‍💻 Tech Enthusiast
 - 📫 How to reach me : mishabansal26@gmail.com
 - 😄 Pronouns:She/Her
 
